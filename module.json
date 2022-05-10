@@ -1,0 +1,66 @@
+{
+    "schema_version": "1.1.0",
+    "name": "Forced Mechanic Jam",
+    "uuid": "a090e5fb-2e80-427a-8559-68c3c046ca10",
+    "version": "1.0.0",
+    "author": "Wiseguy & CowQuack",
+    "description": "Implementation of the forced mechanic for Mario Jams #4",
+    "entry_injected": "injected.asm",
+    "entry_global": [
+        {
+            "file": "func_hook_0.asm",
+            "start": "0x80267504",
+            "end": "0x80267728"
+        },
+        {
+            "file": "func_hook_1.asm",
+            "start": "0x8026bf40",
+            "end": "0x8026c034"
+        },
+        {
+            "file": "func_hook_2.asm",
+            "start": "0x80272548",
+            "end": "0x8027267c"
+        },
+        {
+            "file": "func_hook_3.asm",
+            "start": "0x8026c738",
+            "end": "0x8026c880"
+        },
+        {
+            "file": "func_hook_4.asm",
+            "start": "0x8027197c",
+            "end": "0x80271aa0"
+        },
+        {
+            "file": "func_hook_5.asm",
+            "start": "0x80270c94",
+            "end": "0x80270e40"
+        },
+        {
+            "file": "func_hook_6.asm",
+            "start": "0x80264e18",
+            "end": "0x80265080"
+        },
+        {
+            "file": "func_hook_7.asm",
+            "start": "0x80253488",
+            "end": "0x80253588"
+        },
+        {
+            "file": "func_hook_8.asm",
+            "start": "0x80256b24",
+            "end": "0x80256cd8"
+        },
+        {
+            "file": "func_hook_9.asm",
+            "start": "0x802bd680",
+            "end": "0x802bd8d0"
+        },
+        {
+            "file": "func_hook_10.asm",
+            "start": "0x80253588",
+            "end": "0x80253720"
+        }
+    ]
+}

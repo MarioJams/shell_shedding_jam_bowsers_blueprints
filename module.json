@@ -61,6 +61,26 @@
             "file": "func_hook_10.asm",
             "start": "0x80253588",
             "end": "0x80253720"
+        },
+        {
+            "file": "func_hook_11.asm",
+            "start": "0x80255b04",
+            "end": "0x80255d88"
+        },
+        {
+            "file": "func_hook_12.asm",
+            "start": "0x802560ac",
+            "end": "0x802564e0"
+        },
+        {
+            "file": "func_hook_13.asm",
+            "start": "0x80255d88",
+            "end": "0x80255ec4"
+        },
+        {
+            "file": "func_hook_14.asm",
+            "start": "0x80274864",
+            "end": "0x8027499c"
         }
     ]
 }

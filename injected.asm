@@ -20,3 +20,11 @@ $func_9:
 .incbin "func_9.bin"
 $func_10:
 .incbin "func_10.bin"
+$func_11:
+.incbin "func_11.bin"
+$func_12:
+.incbin "func_12.bin"
+$func_13:
+.incbin "func_13.bin"
+$func_14:
+.incbin "func_14.bin"

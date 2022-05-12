@@ -1,30 +1,30 @@
-$func_0:
-.incbin "func_0.bin"
-$func_1:
-.incbin "func_1.bin"
-$func_2:
-.incbin "func_2.bin"
-$func_3:
-.incbin "func_3.bin"
-$func_4:
-.incbin "func_4.bin"
-$func_5:
-.incbin "func_5.bin"
-$func_6:
-.incbin "func_6.bin"
-$func_7:
-.incbin "func_7.bin"
-$func_8:
-.incbin "func_8.bin"
-$func_9:
-.incbin "func_9.bin"
-$func_10:
-.incbin "func_10.bin"
-$func_11:
-.incbin "func_11.bin"
-$func_12:
-.incbin "func_12.bin"
-$func_13:
-.incbin "func_13.bin"
-$func_14:
-.incbin "func_14.bin"
+$act_riding_shell_ground_jam:
+.incbin "act_riding_shell_ground_jam.bin"
+$act_riding_shell_air_jam:
+.incbin "act_riding_shell_air_jam.bin"
+$act_water_shell_swimming_jam:
+.incbin "act_water_shell_swimming_jam.bin"
+$act_hold_water_jump_jam:
+.incbin "act_hold_water_jump_jam.bin"
+$check_water_jump_jam:
+.incbin "check_water_jump_jam.bin"
+$update_swimming_speed_jam:
+.incbin "update_swimming_speed_jam.bin"
+$update_shell_speed_jam:
+.incbin "update_shell_speed_jam.bin"
+$set_water_plunge_action_jam:
+.incbin "set_water_plunge_action_jam.bin"
+$perform_air_step_jam:
+.incbin "perform_air_step_jam.bin"
+$bhv_koopa_shell_loop_jam:
+.incbin "bhv_koopa_shell_loop_jam.bin"
+$squish_mario_model_jam:
+.incbin "squish_mario_model_jam.bin"
+$perform_ground_quarter_step_jam:
+.incbin "perform_ground_quarter_step_jam.bin"
+$perform_air_quarter_step_jam:
+.incbin "perform_air_quarter_step_jam.bin"
+$perform_ground_step_jam:
+.incbin "perform_ground_step_jam.bin"
+$check_common_submerged_cancels_jam:
+.incbin "check_common_submerged_cancels_jam.bin"

@@ -8,77 +8,77 @@
     "entry_injected": "injected.asm",
     "entry_global": [
         {
-            "file": "func_hook_0.asm",
+            "file": "act_riding_shell_ground_hook.asm",
             "start": "0x80267504",
             "end": "0x80267728"
         },
         {
-            "file": "func_hook_1.asm",
+            "file": "act_riding_shell_air_hook.asm",
             "start": "0x8026bf40",
             "end": "0x8026c034"
         },
         {
-            "file": "func_hook_2.asm",
+            "file": "act_water_shell_swimming_hook.asm",
             "start": "0x80272548",
             "end": "0x8027267c"
         },
         {
-            "file": "func_hook_3.asm",
+            "file": "act_hold_water_jump_hook.asm",
             "start": "0x8026c738",
             "end": "0x8026c880"
         },
         {
-            "file": "func_hook_4.asm",
+            "file": "check_water_jump_hook.asm",
             "start": "0x8027197c",
             "end": "0x80271aa0"
         },
         {
-            "file": "func_hook_5.asm",
+            "file": "update_swimming_speed_hook.asm",
             "start": "0x80270c94",
             "end": "0x80270e40"
         },
         {
-            "file": "func_hook_6.asm",
+            "file": "update_shell_speed_hook.asm",
             "start": "0x80264e18",
             "end": "0x80265080"
         },
         {
-            "file": "func_hook_7.asm",
+            "file": "set_water_plunge_action_hook.asm",
             "start": "0x80253488",
             "end": "0x80253588"
         },
         {
-            "file": "func_hook_8.asm",
+            "file": "perform_air_step_hook.asm",
             "start": "0x80256b24",
             "end": "0x80256cd8"
         },
         {
-            "file": "func_hook_9.asm",
+            "file": "bhv_koopa_shell_loop_hook.asm",
             "start": "0x802bd680",
             "end": "0x802bd8d0"
         },
         {
-            "file": "func_hook_10.asm",
+            "file": "squish_mario_model_hook.asm",
             "start": "0x80253588",
             "end": "0x80253720"
         },
         {
-            "file": "func_hook_11.asm",
+            "file": "perform_ground_quarter_step_hook.asm",
             "start": "0x80255b04",
             "end": "0x80255d88"
         },
         {
-            "file": "func_hook_12.asm",
+            "file": "perform_air_quarter_step_hook.asm",
             "start": "0x802560ac",
             "end": "0x802564e0"
         },
         {
-            "file": "func_hook_13.asm",
+            "file": "perform_ground_step_hook.asm",
             "start": "0x80255d88",
             "end": "0x80255ec4"
         },
         {
-            "file": "func_hook_14.asm",
+            "file": "check_common_submerged_cancels_hook.asm",
             "start": "0x80274864",
             "end": "0x8027499c"
         }
